@@ -128,11 +128,9 @@ button {
   text-transform: capitalize;
 }
 .team-list {
-  background-color: #f4f4fd;
-}
-.team-pic {
   background-color: #fff;
 }
+
 .team-name {
   font-weight: 500;
   font-size: 20px;
@@ -158,6 +156,7 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .portfolio-name {
