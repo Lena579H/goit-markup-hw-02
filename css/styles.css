@@ -81,6 +81,7 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
+  text-transform: capitalize;
 }
 
 .btn-box {
@@ -99,6 +100,9 @@ button {
   background-color: #404bbf;
 }
 
+.team-content {
+  background: #f4f4fd;
+}
 .content-name {
   font-weight: 500;
   font-size: 20px;
@@ -117,12 +121,14 @@ button {
 
 .team-header {
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
 }
-
+.team-list {
+  background-color: #f4f4fd;
+}
 .team-pic {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
   background: url("path_to_image");
