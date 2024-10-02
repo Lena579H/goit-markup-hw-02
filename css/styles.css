@@ -125,13 +125,13 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .team-list {
   background-color: #f4f4fd;
 }
 .team-pic {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
-  background: url("path_to_image");
+  background-color: #fff;
 }
 .team-name {
   font-weight: 500;
