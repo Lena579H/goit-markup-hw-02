@@ -79,6 +79,7 @@ button {
   letter-spacing: 0.02em;
   color: #fff;
   text-transform: capitalize;
+  text-align: center;
 }
 
 .btn-box {
@@ -95,9 +96,6 @@ button {
   background-color: #404bbf;
 }
 
-.team-content {
-  background: #f4f4fd;
-}
 .content-name {
   font-weight: 500;
   font-size: 20px;
@@ -121,6 +119,7 @@ button {
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-transform: capitalize;
+  text-align: center;
 }
 .team-list {
   background-color: white;
@@ -151,6 +150,7 @@ button {
   line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-align: center;
 }
 
 .portfolio-name {
@@ -159,7 +159,6 @@ button {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  text-align: center;
 }
 
 .portfolio-text {
